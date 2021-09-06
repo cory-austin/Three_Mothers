@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Three Mothers</string>
+    <string name="tab_text_1">Aleph</string>
+    <string name="tab_text_2">Mem</string>
+    <string name="tab_text_3">Shin</string>
+    <string name="aleph">א</string>
+    <string name="mem">מ</string>
+    <string name="shin">שׁ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
